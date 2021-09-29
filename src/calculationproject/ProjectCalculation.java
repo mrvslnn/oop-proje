@@ -1,4 +1,4 @@
-package proje01;
+package calculationproject;
 
 import java.util.ArrayList;
 import java.util.List;

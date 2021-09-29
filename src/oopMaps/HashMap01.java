@@ -1,6 +1,5 @@
-package proje01;
+package oopMaps;
 
-import java.util.HashMap;
 import java.util.Scanner;
 
 public class HashMap01 {
